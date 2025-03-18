@@ -10,8 +10,7 @@
   - **B.Tech in AI & Data Science** from **BTU** 🏫  
   - **B.S in Data Science** from **IIT Madras** 🎓  
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**  
-- 📖 **Currently working on:**  
-  - 🏥 **AI-Powered Health Assistant (P4) – AICTE TechSaksham Internship**  
+- 📖 **Currently working on:**    
   - ✍️ **Light Novel: "Twin Blades: Chronicles of Redemption"**  
 - 🏆 **Runner-Up at Shankara Global Hackathon 2025** 🎉  
   - Built a **Sign Language Translator** that converts **hand signs into speech and text**  
