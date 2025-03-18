@@ -13,6 +13,9 @@
 - 📖 **Currently working on:**  
   - 🏥 **AI-Powered Health Assistant (P4) – AICTE TechSaksham Internship**  
   - ✍️ **Light Novel: "Twin Blades: Chronicles of Redemption"**  
+- 🏆 **Runner-Up at Shankara Global Hackathon 2025** 🎉  
+  - Built a **Sign Language Translator** that converts **hand signs into speech and text**  
+  - Used **OpenCV, MediaPipe, LSTM, TTS**, and a **large Kaggle dataset** to train the model  
 - 💡 Always exploring **AI innovations, deep learning breakthroughs, and advanced ML techniques**  
 
 ---
@@ -25,15 +28,15 @@
 ---
 
 ### 🔗 Let's Connect!  
-📧 Email: **piyushbamnia25@gmail.com**  
-💼 LinkedIn: [Piyush Bamnia](https://www.linkedin.com/in/piyushbamnia25/)  
-🏠 GitHub: [PIYUSH-BAMNIA-25](https://github.com/PIYUSH-BAMNIA-25)  
-🌍 Portfolio: https://vkriolkz2hdcoier.vercel.app/  
+📧 **Email:** piyushbamnia25@gmail.com  
+💼 **LinkedIn:** [Piyush Bamnia](https://www.linkedin.com/in/piyushbamnia25/)  
+🏠 **GitHub:** [PIYUSH-BAMNIA-25](https://github.com/PIYUSH-BAMNIA-25)  
+🌍 **Portfolio:** [Visit Here](https://vkriolkz2hdcoier.vercel.app/)  
 
 ---
 
 ### ⚡ Fun Facts  
-😄 Pronouns: **He/Him**  
+😄 **Pronouns:** He/Him  
 🔥 Can spend **hours debugging ML models but still get tilted in ranked matches** 😆🎮  
 💭 My brain is **50% AI models, 30% gaming strategies, 20% fantasy world-building!**  
 
