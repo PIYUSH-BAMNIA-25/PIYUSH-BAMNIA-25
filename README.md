@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Piyush%20Bamnia&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Storyteller&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+AI+that+actually+matters+%F0%9F%A4%96;GATE+DA+2025+Qualified+%E2%9C%85;IIT+Madras+%2B+BTU+%7C+Dual+Degree+%F0%9F%8E%93;Hackathon+Runner-Up+%F0%9F%8F%86;Writing+Twin+Blades%3A+A+Fantasy+Light+Novel+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+AI+that+actually+matters+%F0%9F%A4%96;GATE+DA+2026+Qualified+%E2%9C%85;IIT+Madras+%2B+BTU+%7C+Dual+Degree+%F0%9F%8E%93;Hackathon+Runner-Up+2026+%F0%9F%8F%86;Writing+Twin+Blades%3A+A+Fantasy+Light+Novel+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,7 +24,7 @@ class PiyushBamnia:
     def __init__(self):
         self.name        = "Piyush Bamnia"
         self.pronouns    = "He/Him"
-        self.location    = "Jaipur, Rajasthan 🏜️"
+        self.location    = "Biakner, Rajasthan 🏜️"
         self.education   = [
             "B.Tech AI & Data Science — BTU 🏫",
             "B.S Data Science — IIT Madras 🎓"
@@ -76,8 +76,6 @@ class PiyushBamnia:
 | [**StockSense AI**](https://github.com/PIYUSH-BAMNIA-25) | Human vs AI stock prediction game using XGBoost + LSTM ensemble across 5 stocks | `Python` `TensorFlow` `FastAPI` `React` `Vercel` |
 | [**Sign Language Translator**](https://github.com/PIYUSH-BAMNIA-25) | 🏆 Hackathon Runner-Up — Converts hand signs to speech & text in real-time | `OpenCV` `MediaPipe` `LSTM` `TTS` `Python` |
 | [**AI Health Assistant**](https://github.com/PIYUSH-BAMNIA-25) | AICTE TechSaksham — Intelligent conversational health guidance system | `FastAPI` `React` `Supabase` `LLaMA 3` |
-| [**IndianMoE**](https://github.com/PIYUSH-BAMNIA-25) | Offline multilingual AI for mid-range Android — MoE architecture for Indian languages | `TinyLlama` `Whisper` `BERT` `FastText` `Android` |
-| [**Interview Coach AI**](https://github.com/PIYUSH-BAMNIA-25) | Auto-captures audio/webcam during interviews, gives structured feedback + emotion analysis | `Groq` `Whisper` `face-api.js` `LLaMA 3` `React` |
 
 </div>
 
@@ -120,12 +118,12 @@ class PiyushBamnia:
 
 <div align="center">
 
-```
-📚  GATE 2027         ████████░░░░░░░░░░░░   CS + DA Both Papers
-🎓  M.Tech / MS       ██████░░░░░░░░░░░░░░   NIT/IIIT India or Germany (KIT/TU Berlin)
-📖  Twin Blades       ████░░░░░░░░░░░░░░░░   A Fantasy Light Novel in Progress ⚔️
-🤖  AI Projects       ████████████░░░░░░░░   Building. Always Building.
-```
+| Quest | Status | Goal |
+|-------|--------|------|
+| 📚 **GATE 2027** | ![In Progress](https://img.shields.io/badge/In%20Progress-CS%20%2B%20DA-A78BFA?style=flat-square) | M.Tech / PhD in AI & DS |
+| 🎓 **Higher Studies** | ![Targeting](https://img.shields.io/badge/Targeting-NIT%20%7C%20IIIT%20%7C%20Germany-7C3AED?style=flat-square) | KIT Karlsruhe · TU Berlin · NIT Silchar |
+| 📖 **Twin Blades** | ![Writing](https://img.shields.io/badge/Writing-Light%20Novel-6D28D9?style=flat-square) | Fantasy world with 7 nations ⚔️ |
+| 🤖 **AI Projects** | ![Active](https://img.shields.io/badge/Active-Always%20Building-5B21B6?style=flat-square) | Health Assistant · StockSense AI |
 
 </div>
 
