@@ -121,7 +121,6 @@ class PiyushBamnia:
 | Quest | Status | Goal |
 |-------|--------|------|
 | 📚 **GATE 2027** | ![In Progress](https://img.shields.io/badge/In%20Progress-CS%20%2B%20DA-A78BFA?style=flat-square) | M.Tech / PhD in AI & DS |
-| 🎓 **Higher Studies** | ![Targeting](https://img.shields.io/badge/Targeting-NIT%20%7C%20IIIT%20%7C%20Germany-7C3AED?style=flat-square) | KIT Karlsruhe · TU Berlin · NIT Silchar |
 | 📖 **Twin Blades** | ![Writing](https://img.shields.io/badge/Writing-Light%20Novel-6D28D9?style=flat-square) | Fantasy world with 7 nations ⚔️ |
 | 🤖 **AI Projects** | ![Active](https://img.shields.io/badge/Active-Always%20Building-5B21B6?style=flat-square) | Health Assistant · StockSense AI |
 
